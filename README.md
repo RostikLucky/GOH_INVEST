@@ -10,6 +10,7 @@ npm i prompt-sync
 npm i node-telegram-bot-api
 npm i tinkoff-invest-api
 ```
+- Скачайте файлы: **1. main.js** и **3. main.jpg**
 - Запустите main.js
 ```
 cd your_location
